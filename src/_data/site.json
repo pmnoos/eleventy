@@ -1,7 +1,7 @@
 {
     "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "metaDescription": "The online cookbook of Peter Magner",
+    "author": "Peter Magner",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
     "searchLabel": "Find recipes by name, tag or ingredients",
